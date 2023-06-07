@@ -1,4 +1,4 @@
-# BT_Buoi4
+# NhuLoc_Buoi4
 Câu 1: 6 là số chẵn
 
 Câu 2: Tổng của các số từ 1 đến 20 la: 210
